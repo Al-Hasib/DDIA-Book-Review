@@ -1,8 +1,5 @@
 # Leaderless Replication
 
-## Video Timestamp
-[00:50:00] - Leaderless Replication
-
 ## Key Points
 
 ### Writing to the Database When a Node Is Down

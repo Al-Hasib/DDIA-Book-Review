@@ -1,8 +1,5 @@
 # Data Structures That Power Your Database
 
-## Video Timestamp
-[00:00:00] - Introduction
-
 ## Key Points
 
 ### Hash Indexes

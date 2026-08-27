@@ -1,8 +1,5 @@
 # Partitioning and Secondary Indexes
 
-## Video Timestamp
-[00:20:00] - Secondary Indexes
-
 ## Key Points
 
 ### Partitioning Secondary Indexes by Document

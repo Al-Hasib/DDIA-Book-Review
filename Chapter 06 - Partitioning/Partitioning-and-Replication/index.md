@@ -1,8 +1,5 @@
 # Partitioning and Replication
 
-## Video Timestamp
-[00:00:00] - Introduction
-
 ## Key Points
 
 ### Why Partition?

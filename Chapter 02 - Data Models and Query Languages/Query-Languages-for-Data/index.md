@@ -1,8 +1,5 @@
 # Query Languages for Data
 
-## Video Timestamp
-[00:25:00] - Query Languages
-
 ## Key Points
 
 ### Declarative vs Imperative Queries

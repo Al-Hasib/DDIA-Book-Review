@@ -1,8 +1,5 @@
 # Rebalancing Partitions
 
-## Video Timestamp
-[00:35:00] - Rebalancing
-
 ## Key Points
 
 ### Strategies for Rebalancing

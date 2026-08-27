@@ -1,8 +1,5 @@
 # Problems with Replication Lag
 
-## Video Timestamp
-[00:20:00] - Problems with Replication Lag
-
 ## Key Points
 
 ### Reading Your Own Writes

@@ -1,8 +1,5 @@
 # Partitioning of Key-Value Data
 
-## Video Timestamp
-[00:05:00] - Partitioning Strategies
-
 ## Key Points
 
 ### Partitioning by Key Range

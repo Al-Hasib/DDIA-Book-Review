@@ -1,8 +1,5 @@
 # Summary
 
-## Video Timestamp
-[00:50:00] - Summary
-
 ## Key Takeaways
 
 ### Encoding Formats

@@ -1,8 +1,5 @@
 # Summary
 
-## Video Timestamp
-[01:05:00] - Summary
-
 ## Key Takeaways
 
 ### The Three Concerns

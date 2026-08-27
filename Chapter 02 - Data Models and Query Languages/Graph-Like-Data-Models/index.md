@@ -1,8 +1,5 @@
 # Graph-Like Data Models
 
-## Video Timestamp
-[00:45:00] - Graph-Like Data Models
-
 ## Key Points
 
 ### When Graphs Are Useful

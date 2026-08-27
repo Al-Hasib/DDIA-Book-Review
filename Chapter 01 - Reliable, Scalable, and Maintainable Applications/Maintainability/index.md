@@ -1,8 +1,5 @@
 # Maintainability
 
-## Video Timestamp
-[00:50:00] - Maintainability Section
-
 ## Key Points
 
 ### What is Maintainability?

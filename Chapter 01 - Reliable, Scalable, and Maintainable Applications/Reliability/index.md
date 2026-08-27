@@ -1,8 +1,5 @@
 # Reliability
 
-## Video Timestamp
-[00:05:00] - Reliability Section
-
 ## Key Points
 
 ### What is Reliability?

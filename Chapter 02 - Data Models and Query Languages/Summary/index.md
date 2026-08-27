@@ -1,8 +1,5 @@
 # Summary
 
-## Video Timestamp
-[01:10:00] - Summary
-
 ## Key Takeaways
 
 ### Data Models Matter

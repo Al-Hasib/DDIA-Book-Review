@@ -1,8 +1,5 @@
 # Modes of Dataflow
 
-## Video Timestamp
-[00:25:00] - Modes of Dataflow
-
 ## Key Points
 
 ### Dataflow Through Databases

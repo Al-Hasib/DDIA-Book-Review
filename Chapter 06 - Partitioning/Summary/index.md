@@ -1,8 +1,5 @@
 # Summary
 
-## Video Timestamp
-[01:00:00] - Summary
-
 ## Key Takeaways
 
 ### Partitioning Strategies

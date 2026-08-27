@@ -1,8 +1,5 @@
 # Scalability
 
-## Video Timestamp
-[00:25:00] - Scalability Section
-
 ## Key Points
 
 ### What is Scalability?

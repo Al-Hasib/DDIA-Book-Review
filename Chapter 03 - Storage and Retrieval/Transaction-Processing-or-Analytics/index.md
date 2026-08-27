@@ -1,8 +1,5 @@
 # Transaction Processing or Analytics
 
-## Video Timestamp
-[00:30:00] - Transaction Processing or Analytics
-
 ## Key Points
 
 ### OLTP (Online Transaction Processing)

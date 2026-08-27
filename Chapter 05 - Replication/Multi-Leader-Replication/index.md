@@ -1,8 +1,5 @@
 # Multi-Leader Replication
 
-## Video Timestamp
-[00:35:00] - Multi-Leader Replication
-
 ## Key Points
 
 ### Use Cases for Multi-Leader Replication

@@ -1,8 +1,5 @@
 # Request Routing
 
-## Video Timestamp
-[00:50:00] - Request Routing
-
 ## Key Points
 
 ### Routing Strategies

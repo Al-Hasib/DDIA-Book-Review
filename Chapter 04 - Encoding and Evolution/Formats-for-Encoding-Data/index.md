@@ -1,8 +1,5 @@
 # Formats for Encoding Data
 
-## Video Timestamp
-[00:00:00] - Introduction
-
 ## Key Points
 
 ### Language-Specific Formats

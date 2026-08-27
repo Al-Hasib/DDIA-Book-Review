@@ -1,8 +1,5 @@
 # Relational Model vs Document Model
 
-## Video Timestamp
-[00:00:00] - Introduction
-
 ## Key Points
 
 ### The Birth of NoSQL

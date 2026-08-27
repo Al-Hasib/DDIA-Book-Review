@@ -1,8 +1,5 @@
 # Summary
 
-## Video Timestamp
-[00:45:00] - Summary
-
 ## Key Takeaways
 
 ### Storage Engines
